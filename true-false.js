@@ -21,7 +21,7 @@ if(Name||Name==0){
     console.log("conditiin is true");
 }
 else{
-    console.log("condition is false")
+    console.log("condition is false");
 }
 
 
